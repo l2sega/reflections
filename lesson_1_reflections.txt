@@ -1,0 +1,7 @@
+I can see changes between two files which looks like + and -
+I cas save into a repository
+I can see logical changes and i don't hsve too much commits
+Yes, git allowes saving multiple files in one commit
+Git log command displayes all history of commits. Diff comand helps to comare two commits - first and second
+You know that you have access to the all history of changes
+I wonna create my own repository
