@@ -1,0 +1,2 @@
+When user initialize a repository is created a git system folder
+Stageing area is a storage of modyfied code, but it steel not commited
