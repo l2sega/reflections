@@ -1,2 +1,7 @@
 When user initialize a repository is created a git system folder
 Stageing area is a storage of modyfied code, but it steel not commited
+You can compare stage and work directory
+Branches is helpful when dev add new features or modify code globally and he wants to have opportunity to modify code independently
+You can see master branch and additional branches on the display
+Merging saves all commits 
+It is not introduse a human error
