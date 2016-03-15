@@ -1,2 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
 If collobarate with other developers. Also if I gonna reinstall my OS i need to store my code
+To controll all processes
