@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 If collobarate with other developers. Also if I gonna reinstall my OS i need to store my code
 To controll all processes
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork allowes to copy repository from sombodyes GitHub repository to my Github account
+	Clone comand clones repository from GitHub account to the local machine
+	Branch allowes to work with the same repository to all contributors
